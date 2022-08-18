@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://wrtr.in"
 languageCode = "en-us"
-title = "Hugo Winston"
+title = "wrtr.in"
 themesDir = "../.."
 theme = "hugo-winston-theme"
 
@@ -16,13 +16,13 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@wrtr.in"
 
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
 
   addFrame = true
   addDot = true
 
-  highlightColor = '#7b16ff'
+  highlightColor = '#ffdac1'
