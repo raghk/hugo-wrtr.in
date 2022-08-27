@@ -20,9 +20,9 @@ paginate = 3
 
   showAuthorOnHomepage = false
   showAuthorOnPosts = true
-  showPostsOnHomepage = true
+  showPostsOnHomepage = false
 
-  addFrame = true
+  addFrame = false
   addDot = true
 
   highlightColor = '#3f4e4f'
