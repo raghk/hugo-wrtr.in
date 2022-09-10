@@ -3,7 +3,6 @@ date: 2022-09-10T04:59:00Z
 description: ""
 image:  ""
 title: "Why am I contributing to Zomato and Swiggy's wealth?"
-author: "Abhinandan Ramakrishnan"
 ---
 
 Why? Why am I doing this? Why are you doing this? Why is everyone doing this? Why? Why?
