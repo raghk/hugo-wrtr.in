@@ -7,7 +7,7 @@ No one starts out writing good stuff.
 Almost everything that is great in this world, starts from something humble. 
 A mighty river begins as a small stream.
 An life form begins as a single cell.
-A trillion dollar dollar company begins from someone's garage.
+A trillion dollar company begins from someone's garage.
 
 We begin, Here.
 
