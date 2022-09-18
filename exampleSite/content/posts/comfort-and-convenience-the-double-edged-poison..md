@@ -1,7 +1,6 @@
 +++
 date = 2022-09-18T16:47:00Z
 description = ""
-draft = true
 image = ""
 title = "Comfort and convenience: The Double-edged poison. "
 
