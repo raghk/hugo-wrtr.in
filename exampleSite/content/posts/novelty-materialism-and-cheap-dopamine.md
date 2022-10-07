@@ -1,7 +1,6 @@
 +++
 date = 2022-10-07T06:55:00Z
 description = ""
-draft = true
 image = ""
 title = "Novelty, Materialism, and Cheap Dopamine."
 
